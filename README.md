@@ -1,21 +1,24 @@
 # OUR TIME IS NOW 
-I'm trying to defend people from getting cut of from the rest of the world specially people of IRAN. Please be strong and get your swords beacuse OUR TIME IS NOW and the world will hear the thunder roaring. 
+وقتی صاعقه از آسمان به زمین می نشید که زمانش فرا رسیده باشد، حالا زمان ماست. 
 
-## What are we doing here? 
-Basically, In this repository we bring all the apps and tools that you need to circumvent the censorship and evade detection. My main goal is to provide access to Internet for people of Iran but if your from another country that is under censorship, my brother feel yourself at home. 
+## هدف از این کار چیه؟‌
+خیلی سادس، دور زدن فیلترینگ و محدودیت شدید اینترنتی در شرایط کنونی. هدف از این کار به هیچ عنوان مالی نیست و فقط به عنوان یک کمک هست که بتونید بهتر به دنیای بیرون متصل بشید و به فعالیت های آزادی خواهانه ادامه بدید. تمامی وی پی ان ها یا پروکسی هایی که در این ریپوزیتوری در قرار میگیره به صورت رایگان قابل استفاده است امکان داره تعدادی شون هکی، غیر قانونی یا نا امن باشند پس همیشه مراقب باشید هر چند تا جایی که امکان داره جلوی انتشار سرویس های غیر معتبر رو خواهیم گرفت ولیکن احتیاط شرط عقله. 
+به هیچ عنوان درخواست راه اندازی سرویس وی پی ان اختصاصی برای استفاده شخصی را قبول نمی کنیم. 
 
-## Categories 
+## دسته بندی ها 
  - [Trojan](trojan/)
  - [Shadow socks](shadow-socks/)
  - [SSTP](sstp/)
  - [V2ray](v2ray/)
  - [VPN](vpn/)
  - [Openvpn](openvpn/)
-## Message for contributers 
-First of all I wanna say Thank you for whatcha you doing here and It's priceless. 
-If you are contributing config files or moded applications here from any other source than you please let them know.
+## پیامی برای کسانی که قصد مشارکت دارند  
+اول از همه، از عزیزانی که قصد مشارکت و همکاری در این پروژه دارند سپاس گذارم. کاری که انجام میدهید بسیار با ارزش است. 
+- اگر از دانش تخصصی در این زمینه برخوردار هستید می توانید با راه اندازی سرویس های وی پی ان و پروکسی به گسترش این جامعه و متقابلا دسترسی بیشتری از مردم ایران به اینترنت را فراهم کنید. 
+- از کسانی که میخواهند بخشی از هزینه های مالی این پروژه رو پوشش دهند هم استقبال می کنیم. می توانید با دونیت کردن امکان خرید vps را برای ما فراهم کنید تا بتونیم سرویس های بیشتری را راه اندازی کنیم لازم به ذکر دوباره است که استفاده از کلیه سرویس هایی که در این پروژه قرار می گیرند رایگان است. البته کسانی که خارج از کشور اقامت دارند نیز می توانند با خرید و ارسال مشخصات سرور مجازی به ما در این مسیر کمک کنند. 
 
-## About 
-Name of this repo is taken from a song by Heavy metal band Gojira check it out from the link below! 
+## در مورد نام ریپوزیتوری 
+اسم این ریپوزیتوری، از موزیکی به همین نام از گروه هوی متال گوجیرا (Gojira) گرفته شده است می تونید از لینک زیر به این موزیک گوش بدید. 
 
 [⚡Our time is Now - Gojira](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA)
+![Our-Time-is-Now](https://i.scdn.co/image/ab67616d0000b27379ea049e0ac6010b61585391)
