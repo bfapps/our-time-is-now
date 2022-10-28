@@ -20,5 +20,5 @@
 ## در مورد نام ریپوزیتوری 
 اسم این ریپوزیتوری، از موزیکی به همین نام از گروه هوی متال گوجیرا (Gojira) گرفته شده است می تونید از لینک زیر به این موزیک گوش بدید. 
 
-[⚡Our time is Now - Gojira](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA)
+[⚡Our time is Now - Gojira](https://www.youtube.com/watch?v=76u8h0gjd-Y)
 ![Our-Time-is-Now](https://i.scdn.co/image/ab67616d0000b27379ea049e0ac6010b61585391)
