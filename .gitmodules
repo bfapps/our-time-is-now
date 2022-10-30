@@ -1,0 +1,3 @@
+[submodule "trojan/app/Qv2ray"]
+	path = trojan/app/Qv2ray
+	url = https://github.com/Qv2ray/Qv2ray
