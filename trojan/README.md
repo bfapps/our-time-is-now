@@ -4,7 +4,7 @@
 ## ابزار ها 
 خوشبختانه تعدادی اپ که از این پروتکل پشتیبانی می کنن وجود داره که در ادامه معرفی شون می کنم نسخه ISO هم وجود داره که لینکشو قرار می دم . 
 
-- [Qv2Ray for Desktop](/trojan/app/)
+- [Qv2Ray for Desktop](/v2ray/app/)
 - [Trojan for Android](/trojan/app/)
 - [OnClick for IOS](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197)
 
