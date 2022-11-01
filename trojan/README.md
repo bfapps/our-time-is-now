@@ -13,6 +13,4 @@
 
 | expire | provider | url |
 | --- | --- | --- | 
-| unknown | oneclickvpnkeys | trojan://opentunnel.net-gapproxy10@det-1.opensvr.net:443?sni=det-1.opensvr.net#%F0%9F%87%A9%F0%9F%87%AA6%40oneclickvpnkeys |
-| unknown | oneclickvpnkeys | trojan://opentunnel.net-proxypj70@det-1.opensvr.net:443?sni=det-1.opensvr.net#%F0%9F%87%A9%F0%9F%87%AA2%40oneclickvpnkeys | 
 
