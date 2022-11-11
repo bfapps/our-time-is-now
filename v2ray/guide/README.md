@@ -6,7 +6,11 @@
 - [Downlaod for Linux](https://github.com/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-linux-x64.AppImage)
 
 برای دانلود v2ray-core هم از لینک زیر استفاده کنید کسایی که از آرچ لینوکس استفاده می کنن باید بتونن از AUR نصبش کنن. در غیر اینصورت باید ریلیز متناسب با سیستم عامل و معماری رو دانلود کنید و از حالت فشرده خارج کنید. 
+
+
 - [Download latest V2ray-core](https://github.com/v2fly/v2ray-core/releases/)
+
+
 داخل آرشیو یک فایل اجرایی به اسم v2ray هست در توزیع های لینوکسی نیاز هست که به فایل قابلیت اجرایی بدین . 
 `` chmod +x v2ray ``
 
