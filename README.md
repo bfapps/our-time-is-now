@@ -8,7 +8,7 @@
 ## دسته بندی ها 
  - [Trojan](trojan/)
  - [Shadow socks](shadow-socks/)
- - [SSTP](sstp/)
+ - [HTTP Injector](Injectors/)
  - [V2ray](v2ray/)
  - [VPN](vpn/)
  - [Openvpn](openvpn/)
