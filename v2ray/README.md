@@ -50,3 +50,4 @@
 | unknown | OpenItSub | CA | vmess://eyJhZGQiOiIxNjcuMTE0LjY3LjI1IiwiYWlkIjowLCJob3N0IjoiMDA1ZGdkZi5wYWdlcy5kZXYiLCJpZCI6IjY1MjE4ZmU4LWQ5YzItNGUwNy05NWJiLWNiNmUzNzlhNDQwYiIsIm5ldCI6IndzIiwicGF0aCI6Ii82NTIxOGZlOC1kOWMyLTRlMDctOTViYi1jYjZlMzc5YTQ0MGItdm0iLCJwb3J0Ijo0NDMsInBzIjoiQ0EgMSDihpIgb3Blbml0c3ViLmNvbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIwMDVkZ2RmLnBhZ2VzLmRldiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0= | 
 | unknown | unknown | BE | vmess://eyJhZGQiOiI1Ny4xMjguNDUuMTYxIiwiYWlkIjowLCJob3N0IjoiNTcuMTI4LjQ1LjE2MSIsImlkIjoiMzVkMjU4OTktZWQyMC00NmQ5LTljN2MtOTljMGQ0MTRkNWU0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3VzZXIiLCJwb3J0Ijo4MCwicHMiOiLwn4en8J+HqkJFXzIxIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9 |
 | unknown | OpenItSub | - | [click to open file](/v2ray/config/openitsub-1401-09-05.txt) |
+| unknown | SSR | - | [click to open file](/v2ray/config/ssr-1401-09-06.txt) | 
