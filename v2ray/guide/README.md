@@ -10,8 +10,11 @@
 
 - [Download latest V2ray-core](https://github.com/v2fly/v2ray-core/releases/)
 
-
 داخل آرشیو یک فایل اجرایی به اسم v2ray هست در توزیع های لینوکسی نیاز هست که به فایل قابلیت اجرایی بدین . 
+ظاهرا آخرین ورژن v2ray-core با qv2ray همخوانی نداره از اونجایی که توسعه اش متوقف شده این مسئله به نظر عادی میاد یکی از دوستان ورژن قدیمی تری از v2ray-core رو امتحان کردن و اوکی بوده 
+-[Download v4.31.0 V2ray-core](https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0)
+
+[go to issue](https://github.com/HarlyquinForest/our-time-is-now/issues/1)
 `` chmod +x v2ray ``
 
  اگر در لینوکس هستید می تونید با اضافه کردن فایل اجرایی به مسیر /usr/bin و یا /usr/local/bin در ترمینال فارغ از مسیر جاری استفاده کنید البته به یک پوشه دیگه به نام asset احتیاج دارید که فایل های با پسوند dat رو درونش قرار بدید که می تونید در این مسیرها قرارش بدید /usr/loca/share/v2ray و یا /usr/share/v2ray
