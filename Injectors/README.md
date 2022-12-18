@@ -11,3 +11,12 @@
 | 1401-08-20 | [click](/Injectors/config/1401-08-20) |
 | 1401-08-21 | [click](/Injectors/config/1401-08-21) |
 | 1401-08-28 | [click](/Injecorts/config/1401-08-28) | 
+## اتصال با SSH روی اندروید 
+یه مدتی میشه که V2ray اختلال شدید داره برای همین این روش رو امتحان کنید : 
+
+
+ آموزش اون روشیه که گفتم. چیز خاصی نیست فقط داخل HTTP Injector کانکشن SSH میسازیم.  بنابه تجربه خودم زیاد خوب نبود برا همین دنبال راه حل گشتم و به ابزارهای DPI برخوردم. DPI یا Deep Packet Inspection توسط سانسورچیا برای آنالیز پکت ها استفاده می شه و باهاش می تونن سایت ها و یا یک سری از پورت هارو محدود کنن. با برنامه DPI Tunnel می تونیم این مسئله رو دور بزنیم و با باز کردن یه تونل ssh دیگه به اینترنت(!) دسترسی داشته باشیم. سرعت آپلود و دانلود خیلی خوبه. 
+
+
+[دانلود برنامه DPI Tunnel] (https://github.com/HarlyquinForest/our-time-is-now/raw/master/Injectors/app/DPI-Tunnel-4-0.apk.apk)
+[دانلود HTTP Injector ](https://github.com/HarlyquinForest/our-time-is-now/raw/master/Injectors/app/HTTPInjector-5.9.2.apk)
