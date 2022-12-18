@@ -22,3 +22,23 @@
 
 [⚡Our time is Now - Gojira](https://www.youtube.com/watch?v=76u8h0gjd-Y)
 ![Our-Time-is-Now](https://i.scdn.co/image/ab67616d0000b27379ea049e0ac6010b61585391)
+
+## Donate 
+اگر تمایل به حمایت مالی از این پروژه دارید می تونید با استفاده از روش های انتقال ایمن و تا حدودی ناشناس استفاده کنید. فعلا فقط آدرس کیف پول بیت کوین و اتریوم قرار میدم اگر تمایل داشتید با ارز دیگه ای پرداخت کنید به انواع و اقسام روش ها می تونید اطلاع بدید بهمون :) 
+
+###بیت کوین 
+
+![Bitcoin wallet](assets/BTC_wallet.jpg)
+
+bc1q5d7pxfa78tsmemwadrkqjsrcghplyl4eta8hfn
+
+[Pay me via TrustWallet](https://link.trustwallet.com/send?coin=0&address=bc1q5d7pxfa78tsmemwadrkqjsrcghplyl4eta8hfn)
+
+### اتریوم
+
+![ETH wallet](assets/ETH_wallet.jpg)
+
+0x5AC0300e5d25d583c7F0C9BaF2CbCfcc72D16bF5
+
+[Pay me via TrustWallet](https://link.trustwallet.com/send?coin=60&address=0x5AC0300e5d25d583c7F0C9BaF2CbCfcc72D16bF5)
+
