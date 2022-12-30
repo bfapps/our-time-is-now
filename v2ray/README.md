@@ -30,8 +30,8 @@
 
 | expire | provider | location | url |
 | ----- | ----- | ---- | ----- |
-| 2022-12-22 23:00 | ⚡OurTimeisNow | TR | vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLimqFBbm9ueW1vdXNlIzAwMS1PdXJUaW1lSXNOb3fimqEiLAogICJhZGQiOiAiOTEuMjQxLjQ5LjU3IiwKICAicG9ydCI6IDU1NTUsCiAgImlkIjogIjI0MDYyMjc3LTFhNjEtNGZkMy05OWRiLTUwM2NlYTA4NTM1NCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9 |
-| 2022-12-28 23:00 | ⚡OurTimeisNow | US | vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLimqFBbm9ueW1vdXNlIzAxMC1PdXJUaW1lSXNOb3fimqEiLAogICJhZGQiOiAiMy4xMzMuMTMuMjQ3IiwKICAicG9ydCI6IDgwLAogICJpZCI6ICJhNDlmZWM3MS00YjgxLTQzNDYtYjc4My1hZTE4YWJjY2Q3NTEiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJodHRwIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAibm9uZSIKfQ== | 
-| 2022-12-28 23:00 | ⚡OurTimeisNow | DE | vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLimqFBbm9ueW1vdXNlIzAyMC1PdXJUaW1lSXNOb3fimqEiLAogICJhZGQiOiAiMTcyLjEwNS43NC4xMzQiLAogICJwb3J0IjogMzc4NjcsCiAgImlkIjogIjQ2MjNmOTQ5LWUwZTQtNGQ0MC1kMTc3LTA0OWNhNmZkNzUxOCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9 |
+| 2022-12-31 23:00 | ⚡OurTimeisNow | US | vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLimqFBbm9ueW1vdXNlIzAxMC1PdXJUaW1lSXNOb3fimqEiLAogICJhZGQiOiAiMy4xMzMuMTMuMjQ3IiwKICAicG9ydCI6IDgwLAogICJpZCI6ICJhNDlmZWM3MS00YjgxLTQzNDYtYjc4My1hZTE4YWJjY2Q3NTEiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJodHRwIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAibm9uZSIKfQ== | 
+| unlimited | ⚡OurTimeisNow | DE | vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLimqFBbm9ueW1vdXNlIzAyMC1PdXJUaW1lSXNOb3fimqEiLAogICJhZGQiOiAiMTcyLjEwNS43NC4xMzQiLAogICJwb3J0IjogMzc4NjcsCiAgImlkIjogIjQ2MjNmOTQ5LWUwZTQtNGQ0MC1kMTc3LTA0OWNhNmZkNzUxOCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9 |
 | unknown | OpenItSub | - | [click to open file](/v2ray/config/openitsub-1401-09-07.txt) |
 | unknown | SSR | - | [click to open file](/v2ray/config/ssr-1401-10-02txt) |
+| unknown | SSR | - | [click to open file](/v2ray/config/ssr-1401-10-09txt) |
