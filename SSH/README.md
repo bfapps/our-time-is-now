@@ -10,18 +10,9 @@
 کانفیگایی که تو جدول پایین هستن برای برنامه NetMod هستن و بقیشون داخل دایرکتوری config هست .
 | share link |
 | --- | 
-```nm-ssh://EGuLHYhwdrNsIYvByJ7PDSeHDa/AmhDwz4qj4JI7PNSZEjHsWYFmRJL4O6s3vtaiYgdkfAR5vD5JmA2xXPb2hg==```|
-```nm-ssh://Q1wTX4CVgin1JzwtLKWLGaZ7WLANod3bmOE5lSRW/fV16sDOH217Ggo9OdNBpvXUDwyEAvqkS/ivgsotRCWMGA==```
-```nm-ssh://Q1wTX4CVgin1JzwtLKWLGaZ7WLANod3bmOE5lSRW/fUUjcpzOjK+JSJCUrdqbDg4N1/mIUrVPsNYk1iBkaWk8w==```
-```nm-ssh://Q1wTX4CVgin1JzwtLKWLGaZ7WLANod3bmOE5lSRW/fVYBRrf0ODukuHZUWqGPhgnL8kNTVNljml9arga8s72fA==```
-```nm-ssh://B763JVeYW/uehD/0apDJS6LA0R1J9+2JG8+O3PK2Gb7gsgKR+51NRhC5Wgq7basy+1Nkf5W3VU7y+Rd/qkHyoEaSV70TvKgRsjCVW6SMcjI=```
-```nm-ssh://Qg2Bt3fub1rBIwkA2dCwkVQ/yWLtjZXGwe+1qSK7WZsZti+92cgkIEM4/cgnah4SlAjtzy4XoM+paq/EJsu4xiRzY41aNZkzp1iOTh+IJNI=``` 
-```ssh://julie-vpnjantit.com:julie@195.123.242.216:22#SSH_19```
-```ssh://amber-vpnjantit.com:amber@195.123.243.81:22#SSH_20```
-```ssh://georg-vpnjantit.com:georg@107.181.187.213:22#SSH_21```
-```ssh://teres-vpnjantit.com:teres@195.123.240.135:22#SSH_22```
-```ssh://shirl-vpnjantit.com:shirl@5.34.178.157:22#SSH_23```
-```ssh://jonat-vpnjantit.com:jonat@66.11.123.116:22#SSH_24```
-```ssh://rebek-vpnjantit.com:rebek@62.233.57.53:22#SSH_25```
+```nm-ssh://ZrK5X2ZTCQSR1shcj7I0+dVW+hjrkV/ukE34AFymmzyqE6lCNHcvU/ohR0vxm4lJ6A84CTqBvnnuy6QprvnTzA==``` |
+```nm-ssh://KklQUFL7Vq0zSXcTduAzlYibDc0qbbhpMa+VFrF6TNLuq84zWi8Y2b4+PE53UIBJ8zG3bIW1nDvu/NafAoI7Xg==``` |
+```nm-ssh://k8jxpTv75hYloSlJeRTAblTmkG5yJPT6nz90C+BammLKOh1BW2bVuhoft9jXBqV/LaF2V2CVlH5pbOlhhEMniA==``` |
+```nm-ssh://EGuLHYhwdrNsIYvByJ7PDauIFu/XByZ4wK3MWeTvCRAo9k16Kmo1gXEmuuu/3k4nSwlu7OXX4XjfSSxwSN3aow==``` |
 
 
