@@ -10,11 +10,7 @@
 کانفیگایی که تو جدول پایین هستن برای برنامه NetMod هستن و بقیشون داخل دایرکتوری config هست .
 | share link |
 | --- | 
-```nm-ssh://UqftuEoVh22nrpNP/fcTG2J73HcooBjzdgEar7Pb66eERSlnON9tPgwsgxfluK8ogRfeKH63VBQN1GGZ1zNdEA==``` |
-```nm-ssh://dnW0nLyf0QYwCoc7yq0XBZwPbnQzftA6Iok2Vt3SlJdmZ5HKTlvrk2VGG3Yu4iTaJ0wrJ8CyFh/sctQiFSxLNQ==``` |
-```nm-ssh://2fbiuAS8Tamybzqy0UP6tm38Bb/PzopUTSNb16HZvpyN0XvBnBjAcNiiaqWyzt7Cg5+YqtlMmKGXZYSin1Aflg==``` |
-```nm-ssh://EGuLHYhwdrNsIYvByJ7PDauIFu/XByZ4wK3MWeTvCRAo9k16Kmo1gXEmuuu/3k4nSwlu7OXX4XjfSSxwSN3aow==``` |
-```m-ssh://dnW0nLyf0QYwCoc7yq0XBSq92hVCritR7ypNy82VzMx5bIhOH61EabbqetF3WzC6JRzHl0Y6nNlrKxM71Ds7Kg==```|
-```nm-ssh://ZrK5X2ZTCQSR1shcj7I0+WH/hcnJVyueTehbYXNonY9Y6u1V0bfRQNHixD3V6UOlv6i6un0wz7bpt21e1Den7g==```|
-```ssh://gary-vpnjantit.com:gary@62.233.57.53:22#SSH_31```|
-```ssh://bonni-vpnjantit.com:bonni@212.129.20.7:22#SSH_032```|
+```nm-ssh://UqftuEoVh22nrpNP/fcTG+61LeSmbAzCVCz7A9YIhQ7dWz2IpneH3yfd8Xnjzem3eBsO84rGUgcZebs9YkIpUg==``` | 
+```nm-ssh://dnW0nLyf0QYwCoc7yq0XBbD7nbtGDt7rfjzG7ltWb8XCXjpY6esuUrhSvRfFbXdDbVOpQg8jToxKZCJ/b5tgJQ==``` | 
+```nm-ssh://UqftuEoVh22nrpNP/fcTG/rBeu2yjJg2nzN3vQREtBrKOh1BW2bVuhoft9jXBqV/9jn+kcnTnIhomg02Vfj1xQ==``` | 
+```nm-ssh://dnW0nLyf0QYwCoc7yq0XBcxmd4PnpNa3oXCuR/2+6m9RbZ+kO8SJ1uU7Ly2VKA4ysSMrbapqkcyGEy4dNa19pw==``` | 
