@@ -10,7 +10,7 @@
 کانفیگایی که تو جدول پایین هستن برای برنامه NetMod هستن و بقیشون داخل دایرکتوری config هست .
 | share link |
 | --- | 
-```nm-ssh://UqftuEoVh22nrpNP/fcTG+61LeSmbAzCVCz7A9YIhQ7dWz2IpneH3yfd8Xnjzem3eBsO84rGUgcZebs9YkIpUg==``` | 
-```nm-ssh://dnW0nLyf0QYwCoc7yq0XBbD7nbtGDt7rfjzG7ltWb8XCXjpY6esuUrhSvRfFbXdDbVOpQg8jToxKZCJ/b5tgJQ==``` | 
-```nm-ssh://UqftuEoVh22nrpNP/fcTG/rBeu2yjJg2nzN3vQREtBrKOh1BW2bVuhoft9jXBqV/9jn+kcnTnIhomg02Vfj1xQ==``` | 
-```nm-ssh://dnW0nLyf0QYwCoc7yq0XBcxmd4PnpNa3oXCuR/2+6m9RbZ+kO8SJ1uU7Ly2VKA4ysSMrbapqkcyGEy4dNa19pw==``` | 
+```nm-ssh://H3IQLlHhjElB1oe38lLsWhm6zfxy6pFc+KBQqRANBhXdWz2IpneH3yfd8Xnjzem3eBsO84rGUgcZebs9YkIpUg==``` | 
+```nm-ssh://C5ZUvlwlh0wOkLO1EvbgwOCAaHpKDAxuANWHsA7tKeOfkiJ1b/PABnf1giSvEBEnoNU2IyGLftpP+GwBqtumXg==``` | 
+```nm-ssh://H3IQLlHhjElB1oe38lLsWi9is8mEDwfF8rTKFAiCjmWAdRgfJfhU9Cf7l4IiT1aL``` | 
+```nm-ssh://C5ZUvlwlh0wOkLO1EvbgwMajPbsDy4isK4av6DovW0mpBwfZQzb94NrlYge5D5U5``` | 
