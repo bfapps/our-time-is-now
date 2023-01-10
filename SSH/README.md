@@ -10,7 +10,5 @@
 کانفیگایی که تو جدول پایین هستن برای برنامه NetMod هستن و بقیشون داخل دایرکتوری config هست .
 | share link |
 | --- | 
-```nm-ssh://H3IQLlHhjElB1oe38lLsWhm6zfxy6pFc+KBQqRANBhXdWz2IpneH3yfd8Xnjzem3eBsO84rGUgcZebs9YkIpUg==``` | 
-```nm-ssh://C5ZUvlwlh0wOkLO1EvbgwOCAaHpKDAxuANWHsA7tKeOfkiJ1b/PABnf1giSvEBEnoNU2IyGLftpP+GwBqtumXg==``` | 
-```nm-ssh://H3IQLlHhjElB1oe38lLsWi9is8mEDwfF8rTKFAiCjmWAdRgfJfhU9Cf7l4IiT1aL``` | 
-```nm-ssh://C5ZUvlwlh0wOkLO1EvbgwMajPbsDy4isK4av6DovW0mpBwfZQzb94NrlYge5D5U5``` | 
+```nm-ssh://BC9AMLyTtMGj5huU1W2Eep9HEBJ9LEM36xIGNphaYZCN0XvBnBjAcNiiaqWyzt7Cg5+YqtlMmKGXZYSin1Aflg==``` | 
+```nm-ssh://C5ZUvlwlh0wOkLO1EvbgwJafGuQfCYaBQ5fIuKeYFf+fY+3gMb8GrQ2+vRFnUiQ8KFyytV/FAzN2s5yz8RMEsQ==``` | 
