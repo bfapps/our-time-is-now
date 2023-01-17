@@ -30,8 +30,8 @@
 
 | expire | provider | location | url |
 | ----- | ----- | ---- | ----- |
-| 2023-01-18 23:00 | ⚡OurTimeisNow | US | vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLimqFBbm9ueW1vdXNlIzAxMC1PdXJUaW1lSXNOb3fimqEiLAogICJhZGQiOiAiMy4xMzMuMTMuMjQ3IiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiMmQxOTc2MWYtOTY1YS00MmIxLWY0ODktZGVhYTZiYWYwOWNmIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0= | 
-| 2023-01-18 23:00 | ⚡OurTimeisNow | DE | vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLimqFBbm9ueW1vdXNlIzAyMC1PdXJUaW1lSXNOb3fimqEiLAogICJhZGQiOiAiOTEuMTA3LjE2MS40MSIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogImViODJlYjg0LTYwMjctNGNkMi05YmNjLTc5NTBiYjI5MjEzMSIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9 |
+| 2023-01-18 23:00 | ⚡OurTimeisNow | US | vmess://eyJhZGQiOiJ3d3cuc2NpZW5jZWRpcmVjdC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImZjYTFiYTdmLTk2YzgtNGRhYS1mMTZkLTU2YTlhOGE0NzkyNSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiYW5vbnltb3VzZSIsInBvcnQiOiI0NDMiLCJwcyI6IuKaoUFub255bW91c2UjMDEwLU91clRpbWVJc05vd+KaoSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYXJ0Lm91dGxhd2Fub255bW91c2UubWwiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ== | 
+| 2023-01-18 23:00 | ⚡OurTimeisNow | DE | vmess://eyJhZGQiOiJ3d3cuc2NpZW5jZWRpcmVjdC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjJjYjQyNTI2LTgyZjItNDJkOC05ZjI4LTE4OGE1ZDg3ZmM4NiIsIm5ldCI6ImdycGMiLCJwYXRoIjoiYW5vbnltb3VzZSIsInBvcnQiOiIyMDk2IiwicHMiOiLimqFBbm9ueW1vdXNlIzAyMC1PdXJUaW1lSXNOb3fimqEiLCJzY3kiOiJhdXRvIiwic25pIjoib3V0bGF3YW5vbnltb3VzZS5tbCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9 | 
 | unknown | SSR | - | [click to open file](/v2ray/config/ssr-1401-10-02txt) |
 | unknown | SSR | - | [click to open file](/v2ray/config/ssr-1401-10-09txt) |
 | unknown | SSR | - | [click to open file](/v2ray/config/ssr-1401-10-16txt) |
